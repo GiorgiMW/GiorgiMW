@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🤑 Future backend developer 😎😉
+🤑 Future Fullstack developer 😎😉
 
 💬 Ask me about Help if you need
 
